@@ -13,7 +13,6 @@ venv/
 data/*.csv
 
 # Models (large — provide training instructions)
-models/*.png
 
 # IDE
 .vscode/
